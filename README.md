@@ -34,3 +34,11 @@ The **OLA Analytics Dashboard** enables business teams to:
 - Revenue per ride and overall profitability
 - Driver performance metrics
 - Ratings and feedback analysis
+
+---
+
+## Project Snapshots
+![1. Vehicle Type](images/ProjectSnapshot1.png)
+![2.Revenue](images/ProjectSnapshot2.png)
+![3.Cancellation](images/ProjectSnapshot3.png)
+![4.Ratings](images/ProjectSnapshot4.png)
