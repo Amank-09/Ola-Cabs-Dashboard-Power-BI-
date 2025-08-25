@@ -40,9 +40,12 @@ The **OLA Analytics Dashboard** enables business teams to:
 ## Project Snapshots
 1. Vehicle Type :
 ![1. Vehicle Type](images/ProjectSnapshot1.png)
-2.Revenue : 
+
+2. Revenue : 
 ![2.Revenue](images/ProjectSnapshot2.png)
-3.Cancellation : 
+
+3. Cancellation : 
 ![3.Cancellation](images/ProjectSnapshot3.png)
-4.Ratings : 
+
+4. Ratings : 
 ![4.Ratings](images/ProjectSnapshot4.png)
